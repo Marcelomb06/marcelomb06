@@ -11,6 +11,12 @@
 - C#
 - Blazor (básico)
 
+### 🖧 Suporte e Infraestrutura
+- Suporte técnico
+- Redes de computadores (básico)
+- Infraestrutura de TI
+- Manutenção de computadores
+
 ## Projetos em destaque
 - Portfólio  
 - Sistema de Passagens Aéreas  
