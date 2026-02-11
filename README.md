@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marcelo Marinho
 
-<!--
-**Marcelomb06/marcelomb06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programador em Desenvolvimento  
+🎓 Estudante de Sistemas / TI  
+🚀 Foco em Front-end e aplicações web
 
-Here are some ideas to get you started:
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- C#
+- Blazor (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- Portfólio  
+- Sistema de Passagens Aéreas  
+- Plataforma de Estudos  
+
+📫 Contato:
+LinkedIn: https://www.linkedin.com/in/marcelo-bernardez-364864322/
+Email: marinhomarcelo628@gmail.com
