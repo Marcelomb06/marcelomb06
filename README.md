@@ -19,8 +19,8 @@
 
 ## Projetos em destaque
 - Portfólio  
-- Sistema de Passagens Aéreas  
-- Plataforma de Estudos  
+- Sistema de Salão
+- Site de Hamburgueria  
 
 📫 Contato:
 LinkedIn: https://www.linkedin.com/in/marcelo-bernardez-364864322/
