@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Marcelo Marinho
 
 💻 Programador em Desenvolvimento  
-🎓 Estudante de Sistemas / TI  
+🎓 Estudante de Ciências da Computação / TI  
 🚀 Foco em Front-end e aplicações web
 
 ## Tecnologias
